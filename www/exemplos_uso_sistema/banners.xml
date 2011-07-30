@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rotator isRandom="false">
+  <bannerTime>8</bannerTime>
+  <numberOfBanners>2</numberOfBanners>
+  <banners showHeader="true">
+    <banner>
+      <name>Banner 1</name>
+      <body></body>
+      <imagePath>banner.jpg</imagePath>
+      <link>#</link>
+    </banner>
+    <banner>
+      <name>Banner 2</name>
+      <body></body>
+      <imagePath>banner2.jpg</imagePath>
+      <link>#</link>
+    </banner>
+  </banners>
+</rotator>

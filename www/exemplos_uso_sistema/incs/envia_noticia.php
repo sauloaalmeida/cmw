@@ -1,0 +1,1 @@
+<div id="print"><a href="javascript:window.open('pop_envia_noticia.php?news_not_pk=<?php echo $news_not_pk; ?>&url=<?php echo $url; ?>','popEnviaNoticia','top=100,left=100,width=350,height=450');void(0);"><img src="images/icon_envia_noticia.gif" title="Enviar Not&iacute;cia para um amigo" alt="Enviar Not&iacute;cia para um amigo" width="28" height="24" border="0" /></a></div>

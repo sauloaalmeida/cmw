@@ -1,0 +1,1 @@
+<div id="parceiros"><img src="images/banner_parceiro.gif" width="196" height="58"><img src="images/banner_parceiro.gif" width="196" height="58"><img src="images/banner_parceiro.gif" width="196" height="58"><img src="images/banner_parceiro.gif" width="196" height="58"><img src="images/banner_parceiro.gif" width="196" height="58"></div>

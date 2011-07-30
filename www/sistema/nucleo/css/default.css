@@ -1,0 +1,68 @@
+#rastro {padding-bottom:7px;  background: url(../imgs/bg_rastro.gif) repeat-x; height:30px;}
+
+/*=========================================================================*/
+/*                        Redefini��es de TAGs                             */
+/*=========================================================================*/
+th {color:#fff; background-color:#688446; height:22px;}
+a:link    {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none}
+a:visited {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none}
+a:active  {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none}
+a:hover   {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: underline; font-weight: none}
+
+table		{COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; TEXT-DECORATION: none }
+input		{border-left-width : 1px;	border-right-width : 1px;	border-top-width : 1px;	border-bottom-width : 1px;	border-width : 1px;	border-color : #000000;	border-style : solid;	clear : left;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 9px;	color: #000000;	heigth:10px;BACKGROUND: none transparent scroll repeat 0% 0%;}
+textarea	{border-left-width : 1px;	border-right-width : 1px;	border-top-width : 1px;	border-bottom-width : 1px;	border-width : 1px;	border-color : #000000;	border-style : solid;	clear : left;	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 9px;	color: #000000;	heigth:10px;BACKGROUND: none transparent scroll repeat 0% 0%;}
+select		{COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none }
+
+
+/*=========================================================================*/
+/*                        Estilos de Link                                  */
+/*=========================================================================*/
+
+#link01:link    {COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px; TEXT-DECORATION: none ; font-weight: bold}
+#link01:visited {COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px; TEXT-DECORATION: none ; font-weight: bold}
+#link01:active  {COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px; TEXT-DECORATION: none ; font-weight: bold}
+#link01:hover   {COLOR: #b21010; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14px; TEXT-DECORATION: none; font-weight: bold}
+
+#link02:link    {COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none}
+#link02:visited {COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none}
+#link02:active  {COLOR: #666666; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none}
+#link02:hover   {COLOR: #0066CC; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none; font-weight: none}
+
+/*=========================================================================*/
+/*                        Estilos de Fundo                                 */
+/*=========================================================================*/
+#fundo01 {BACKGROUND-COLOR: #000000}
+#fundo02 {BACKGROUND-COLOR: #c0c0c0}
+#fundo03 {BACKGROUND-COLOR: #efefef}
+#fundo04 {BACKGROUND-COLOR: #ffffff}
+.bg_02 { background: #EDEEE8;}
+.bg_03 { background: url(../imgs/bg_menu.gif) #F6F5F3 repeat-x; border-right:1px solid #CAC6BA}
+.bg_rastro { background: url(../imgs/bg_rastro.gif) repeat-x; text-transform:uppercase; padding-bottom:7px;}
+.bg_topo { background: url(../imgs/bg_topo.gif) repeat-x bottom;}
+
+/*=========================================================================*/
+/*                        Estilos de texto                                 */
+/*=========================================================================*/
+.tx_msg_erro {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 11px;font-weight: bold;	color: #ba0000;}
+.tx_saudacao {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px; color: #666666; text-decoration: none;}
+.tx_titulo_01 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 20px;color: #999999;	font-weight: bold;	text-decoration: none;}
+.tx_texto_01 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 9px;	color: #000000;	text-decoration: none;}
+.tx_texto_02 {	font-family: Arial, Helvetica, sans-serif;	font-size: 14px;color: #498108;	text-decoration: none;font-weight: bold;}
+.tx_texto_03 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 12px;color: #ffffff;	text-decoration: none;font-weight: bold;}
+.tx_texto_04 {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 10px;color: #405f1c;	text-decoration: bold;font-weight: bold;}
+.tx_texto_05 {	font-family: Arial, Helvetica, sans-serif;	font-size: 14px;color: #000;	text-decoration: none;font-weight: bold;}
+
+
+/*=========================================================================*/
+/*                        Estilos de bordas                                */
+/*=========================================================================*/
+.borda_01 {	border-left-width : 1px; border-right-width : 1px;	border-top-width : 1px;	border-bottom-width : 1px;	border-width : 1px;	border-color : #000000;	border-style : solid; clear : left;}
+.tx_linha {	font-family: Verdana, Arial, Helvetica, sans-serif;	font-size: 9px;	color: #BDDDDD;; text-decoration: none;}
+
+
+/*=========================================================================*/
+/*                        Estilos de botoes                                */
+/*=========================================================================*/
+.botao01 {font-family: Arial, Helvetica, sans-serif; font-size: 12pt;border: 1px solid #405f1c; padding:2px; width:160px; background-color:#688446; color:#FFFFFF;}
+.check {border: 0px solid #000000;}

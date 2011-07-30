@@ -1,0 +1,90 @@
+// I18N constants
+
+// LANG: "en", ENCODING: UTF-8 | ISO-8859-1
+// Author: Mihai Bazon, <mishoo@infoiasi.ro>
+
+// FOR TRANSLATORS:
+//
+//   1. PLEASE PUT YOUR CONTACT INFO IN THE ABOVE LINE
+//      (at least a valid email address)
+//
+//   2. PLEASE TRY TO USE UTF-8 FOR ENCODING;
+//      (if this is not possible, please include a comment
+//       that states what encoding is necessary.)
+
+TableOperations.I18N = {
+	"Align":					  "Alinhamento",
+	"All four sides":	 		  "Os quatro lados",
+	"Background":				  "Background",
+	"Baseline":                   "Linha base",
+	"Border":					  "Borda",
+	"Borders":					  "Bordas",
+	"Bottom":                     "Base",
+	"CSS Style":				  "Estilo [CSS]",
+	"Caption":					  "Caption",
+	"Cell Properties":            "Propriedades da célula",
+	"Center":					  "Centralizar",
+	"Char":                       "Caracter",
+	"Collapsed borders":          "Bordas Mescladas",
+	"Color":					  "Cor",
+	"Description":				  "Descrição",
+	"FG Color":					  "Cor Externa",
+	"Float":                      "Flutuante",
+	"Frames":					  "Frames",
+	"Height":                     "Altura",
+	"How many columns would you like to merge?":      "Quantas colunas gostaria de mesclar?",
+	"How many rows would you like to merge?":         "Quantas linhas gostaria de mesclar",
+	"Image URL":					  "URL da imagem",
+	"Justify":                                        "Justificar",
+	"Layout":					  "Layout",
+	"Left":						  "Esquerda",
+	"Margin":                                         "Margem",
+	"Middle":                                         "Meio",
+	"No rules":					  "Sem réguas",
+	"No sides":					  "Sem lados",
+	"None":                                           "Nenhum",
+	"Padding":					  "Padding",
+	"Please click into some cell":                    "Clique em alguma célula",
+	"Right":					  "Direita",
+	"Row Properties":                                 "Propriedades da linha",
+	"Rules will appear between all rows and columns": "Réguas irão aparecer entre todas as linhas e colunas",
+	"Rules will appear between columns only":	  "Réguas irão aparecer entre colunas apenas",
+	"Rules will appear between rows only":		  "Réguas irão aparecer entre todas linhas apenas",
+	"Rules":					  "Réguas",
+	"Spacing and padding":                            "Espaçamento e entrelinhas",
+	"Spacing":					  "Espaçamento",
+	"Summary":					  "Sumário",
+	"TO-cell-delete":				  "Apagar célula",
+	"TO-cell-insert-after":				  "Inserir depois da célula",
+	"TO-cell-insert-before":			  "Inserir antes da célula",
+	"TO-cell-merge":				  "Mesclar células",
+	"TO-cell-prop":					  "Propriedades da célula",
+	"TO-cell-split":				  "Didivir célula",
+	"TO-col-delete":				  "Apagar coluna",
+	"TO-col-insert-after":				  "Inserir depois da coluna",
+	"TO-col-insert-before":				  "Inserir antes da coluna",
+	"TO-col-split":					  "Dividir coluna",
+	"TO-row-delete":				  "Agagar coluna",
+	"TO-row-insert-above":				  "Inserir linha antes",
+	"TO-row-insert-under":				  "Inserir linha depois",
+	"TO-row-prop":					  "Propriedade da linha",
+	"TO-row-split":					  "Dividir linha",
+	"TO-table-prop":				  "Propriedades da tabela",
+	"Table Properties":				  "Propriedades da tabela",
+	"Text align":                                     "Alinhamento do texto",
+	"The bottom side only":				  "Por baixo apenas",
+	"The left-hand side only":			  "Ao lado esquerdo apenas",
+	"The right and left sides only":		  "Ao lado esquerdo e direito apenas",
+	"The right-hand side only":			  "Ao lado direito apenas",
+	"The top and bottom sides only":		  "Ao lado de cima e de baixo apenas",
+	"The top side only":				  "Por cima apenas",
+	"Top":                                            "Superior",	
+	"Unset color":                                    "Cor não ajustada",
+	"Vertical align":                                 "Alinhamento Vertical",
+	"Width":					  "Largura",
+	"not-del-last-cell":				  "Não é possível deletar essa última célula na linha.",
+	"not-del-last-col":				  "Não é possível deletar essa última coluna na tabela.",
+	"not-del-last-row":				  "Não é possível deletar essa última linha na tabela.",
+	"percent":					  "porcentagem",
+	"pixels":					  "pixels"
+};

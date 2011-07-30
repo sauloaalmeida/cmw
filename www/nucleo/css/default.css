@@ -1,0 +1,51 @@
+/************************************************************************************/
+/*                             Tags Renomeadas                                      */      
+/************************************************************************************/
+table		  {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none }
+
+a:        {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none }
+a:link    {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none }
+a:visited {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none }
+a:active  {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none }
+a:hover   {COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: underline}
+
+
+/************************************************************************************/
+/*                             Cores do site                                        */      
+/************************************************************************************/
+
+#fundo01{background-color: #0A1C66;}
+#fundo02{background-color: #e91414;}
+#fundo03{background-color: #3b477c;}
+
+
+
+/************************************************************************************/
+/*                             Estilos de fontes                                    */      
+/************************************************************************************/
+.titulo01{font-size:10px; color:#0A1C66; font-family: Verdana, Arial, sans-serif; font-weight: bold;} 
+.titulo02{font-size:10px; color:#000000; font-family: Verdana, Arial, sans-serif; font-weight: bold;} 
+.titulo03{font-size:10px; color:#ffffff; font-family: Verdana, Arial, sans-serif; font-weight: bold;}
+.titulo04{font-size:12px; color:#0A1C66; font-family: Verdana, Arial, sans-serif; font-weight: bold;}
+
+.texto01{font-size:10px; color:#ffffff; font-family: Verdana, Arial, sans-serif;} 
+.copyright{font-size:9px; color:#FFFFFF; font-family: Verdana, Arial, sans-serif; font-weight: lighter;} 
+.menusemlink{COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none;}
+
+
+/*=========================================================================*/
+/*                        Links                                            */
+/*=========================================================================*/
+#linkmenu:link    {COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none;}
+#linkmenu:visited {COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none;}
+#linkmenu:active  {COLOR: #FFFFFF; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none ; font-weight: none;}
+#linkmenu:hover   {COLOR: #f9c90b; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 10px; TEXT-DECORATION: none; font-weight: none;}
+
+
+/*=========================================================================*/
+/*                        Estilos dos sites                                */
+/*=========================================================================*/
+.borda01  {border-left-width : 1px;border-right-width : 1px;border-top-width : 1px;border-bottom-width : 1px;border-width : 1px;border-color : #000000;border-style : solid;clear : left;}
+.botao01 {font-family: verdana,arial;font-size: 7pt;border: 1px solid #000000;background-color: #FFFFFF;}
+.textarea01 {FONT-SIZE: 10px; FONT-FAMILY: Arial, Helvetica, sans-serif; HEIGHT: 100px; BACKGROUND-COLOR: #FFFFFF;border-color : #000000;border-left-width : 0px;border-right-width : 0px;border-top-width : 0px;border-bottom-width : 0px;border-width : 0px;}
+.input01{BORDER-RIGHT: #527cb6  1px double; BORDER-TOP:  #527cb6 1px double; FONT-SIZE: 10px; BORDER-LEFT:  #527cb6  1px double; WIDTH: 250 px; BORDER-BOTTOM:  #527cb6  1px double; FONT-FAMILY: Arial, Helvetica; HEIGHT: 16px; BACKGROUND-COLOR: #ffffff;}
